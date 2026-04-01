@@ -223,9 +223,11 @@ This project is for academic and educational purposes.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-Your Name
-(You can add your GitHub profile here)
+Adityaraj Chatterjee-24BEE1122
+Vedit Patil-24BEE1120
+Atharva Suranglikar-24BEE1232
+Kumud Ranjan Kumar-24BEE1131
 
 ---
