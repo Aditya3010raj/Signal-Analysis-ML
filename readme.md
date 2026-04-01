@@ -225,9 +225,9 @@ This project is for academic and educational purposes.
 
 ## 👨‍💻 Authors
 
-Adityaraj Chatterjee-24BEE1122
-Vedit Patil-24BEE1120
-Atharva Suranglikar-24BEE1232
-Kumud Ranjan Kumar-24BEE1131
+##Adityaraj Chatterjee-24BEE1122
+##Vedit Patil-24BEE1120
+##Atharva Suranglikar-24BEE1232
+##Kumud Ranjan Kumar-24BEE1131
 
 ---
